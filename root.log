@@ -1,0 +1,32 @@
+2025-12-12 10:13:45.754 [INFO] [main] root - Initialized 298 handlers in 64ms.
+2025-12-12 10:13:45.756 [INFO] [main] root - Starting server.
+2025-12-12 10:13:45.777 [DEBUG] [main] org.jboss.logging - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2025-12-12 10:13:46.078 [INFO] [Thread-0] root - Login listening on port 8484.
+2025-12-12 10:13:46.265 [INFO] [main] SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-12-12 10:13:49.408 [INFO] [main] root - Loaded Hibernate in 3651ms.
+2025-12-12 10:13:49.457 [INFO] [main] root - Took 42ms to load from itemSets.dat.
+2025-12-12 10:13:49.675 [INFO] [main] root - Took 217ms to load from itemOptions.dat.
+2025-12-12 10:13:49.678 [INFO] [main] root - Took 3ms to load from startingItems.dat.
+2025-12-12 10:13:49.682 [INFO] [main] root - Took 0ms to load from eliteMobSkills.dat.
+2025-12-12 10:13:50.141 [INFO] [main] root - Loaded item strings from data file in 457ms.
+2025-12-12 10:13:50.262 [INFO] [main] root - Loaded skill strings from data file in 121ms.
+2025-12-12 10:13:50.327 [INFO] [main] root - Loaded mob strings from data file in 65ms.
+2025-12-12 10:13:50.392 [INFO] [main] root - Loaded npc strings from data file in 65ms.
+2025-12-12 10:13:50.488 [INFO] [main] root - Loaded item strings from data file in 96ms.
+2025-12-12 10:13:50.608 [INFO] [main] root - Loaded quest strings from data file in 120ms.
+2025-12-12 10:13:50.633 [INFO] [main] root - Loaded world map fields from data file in 25ms.
+2025-12-12 10:13:50.650 [INFO] [main] root - Loaded Custom NPCs in 17ms.
+2025-12-12 10:13:51.140 [INFO] [main] root - Loaded 10098 skills from data files in 490ms.
+2025-12-12 10:13:52.779 [INFO] [main] root - Loaded Dressing Room in 1639ms.
+2025-12-12 10:13:52.792 [INFO] [main] root - Loaded Style Room in 13ms.
+2025-12-12 10:13:52.945 [INFO] [Thread-3] net.swordie.ms.connection.api.ApiAcceptor - API listening on port 8483.
+2025-12-12 10:13:52.965 [INFO] [main] root - Loaded VCore in 102ms.
+2025-12-12 10:13:53.175 [INFO] [main] root - Loaded CashShop in 210ms.
+2025-12-12 10:13:53.211 [INFO] [main] net.swordie.ms.loaders.MonsterCollectionData - Loaded MonsterCollectionData in 33ms.
+2025-12-12 10:13:53.213 [INFO] [main] root - Finished loading server in 7456ms.
+2025-12-12 10:13:53.214 [INFO] [Thread-10] root - Starting python script engine.
+2025-12-12 10:13:53.355 [INFO] [Thread-7] root - Channel 3 from World 殺人鯨 listening on port 9087.
+2025-12-12 10:13:53.356 [INFO] [Thread-8] root - Channel 4 from World 殺人鯨 listening on port 9088.
+2025-12-12 10:13:53.356 [INFO] [Thread-6] root - Channel 2 from World 殺人鯨 listening on port 9086.
+2025-12-12 10:13:53.357 [INFO] [Thread-9] root - Channel 5 from World 殺人鯨 listening on port 9089.
+2025-12-12 10:13:53.357 [INFO] [Thread-5] root - Channel 1 from World 殺人鯨 listening on port 9085.

@@ -2,7 +2,7 @@
 
 ## 語言選擇 / Language Selection
 * [English](README_en.md)
-* [简体中文](../README.md)
+* [简体中文](README.md)
 
 ---
 

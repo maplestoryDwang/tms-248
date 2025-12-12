@@ -1,12 +1,8 @@
-
-## README_en.md 文件内容：
-
-
 # MapleStory TMS Server Project
 
 ## Language Selection
 * [繁體中文](README_zh-TW.md)
-* [简体中文](../README.md)
+* [简体中文](README.md)
 
 ---
 
